@@ -2,35 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Test Site</title>
-    <link>http://localhost:1313/</link>
+    <link>hugo.intothespirit.com/</link>
     <description>Recent content on My New Hugo Test Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2015 18:06:33 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>first</title>
-      <link>http://localhost:1313/post/first/</link>
-      <pubDate>Tue, 20 Oct 2015 18:06:33 +0200</pubDate>
-      
-      <guid>http://localhost:1313/post/first/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>about</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Tue, 20 Oct 2015 18:05:36 +0200</pubDate>
-      
-      <guid>http://localhost:1313/about/</guid>
-      <description>
-
-&lt;h2 id=&#34;a-headline:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;A headline&lt;/h2&gt;
-
-&lt;p&gt;Some Content&lt;/p&gt;
-</description>
-    </item>
+    <atom:link href="hugo.intothespirit.com/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
